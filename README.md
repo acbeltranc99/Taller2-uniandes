@@ -18,3 +18,5 @@ Va en orden: cada punto empieza con un título y cada etapa tiene una explicaci�
 Si se quiere ejecutar de nuevo, hay que correr las celdas de arriba hacia abajo, una tras otra, porque cada una usa variables de las anteriores.
 
 Necesita Python con `pandas`, `numpy`, `matplotlib`, `seaborn` y `scikit-learn`, y para el punto 4 también `lime` y `shap` (`pip install lime shap`). Los datos los lee desde la dirección de la guía de la materia, así que hace falta internet; si no hay conexión, se puede cambiar esa ruta por `data/churn.csv`.
+
+La rama principal es la main, y es donde se tiene toda la información del taller
